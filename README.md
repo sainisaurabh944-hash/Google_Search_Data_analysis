@@ -111,13 +111,13 @@ Tell a story with data 💬
 
 ~~~
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:0;">
-   <img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/522ba7e4-77eb-47b0-a58b-7b2deaccb552" />
-   <img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/54cbfa84-9917-496c-ab48-46901bc16005" />
-   <img width="450" height="300" alt="Screenshot 2025-10-15 212156" src="https://github.com/user-attachments/assets/929f98be-daa3-4948-8311-73985644ba49" />
-   <img width="450" height="450" alt="Screenshot 2025-10-15 212219" src="https://github.com/user-attachments/assets/0f8754b0-b2e2-4abd-a283-062dc3177161" />
-</div>
-
+   <img width="1200" height="300" alt="image" src="https://github.com/user-attachments/assets/522ba7e4-77eb-47b0-a58b-7b2deaccb552" />
+   
+   <img width="1200" height="300" alt="image" src="https://github.com/user-attachments/assets/54cbfa84-9917-496c-ab48-46901bc16005" />
+   
+   <img width="1200" height="300" alt="Screenshot 2025-10-15 212156" src="https://github.com/user-attachments/assets/929f98be-daa3-4948-8311-73985644ba49" />
+   
+   <img width="1200" height="3000" alt="Screenshot 2025-10-15 212219" src="https://github.com/user-attachments/assets/0f8754b0-b2e2-4abd-a283-062dc3177161" />
 
 
 ## 🧾 Key Learnings
