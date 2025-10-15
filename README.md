@@ -1,7 +1,7 @@
 # 🧠 Google Search Data Analysis using Python
-[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.x-green)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/yourusername/your-repo-name)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-yellow?logo=github)](https://github.com/yourusername/your-repo-name)
 [![Google](https://img.shields.io/badge/Google-Trends-4285F4?logo=google&logoColor=white)](https://trends.google.com)
 
 
