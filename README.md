@@ -1,9 +1,14 @@
 # 🧠 Google Search Data Analysis using Python
-### 📊 Explore what the world is searching for with Google Trends data
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/yourusername/your-repo-name)
+[![Google](https://img.shields.io/badge/Google-Trends-4285F4?logo=google&logoColor=white)](https://trends.google.com)
+
 
 ---
 
 ## 🧩 Project Overview
+
 In this project, we analyze real-time **Google Trends** data to uncover how global interest in different technologies has evolved over time.
 
 By using Python libraries like **Pytrends**, **Matplotlib**, **Seaborn**, and **Plotly**, we extract, visualize, and compare keyword popularity to understand user behavior across countries and time periods.
@@ -11,14 +16,14 @@ By using Python libraries like **Pytrends**, **Matplotlib**, **Seaborn**, and **
 This analysis provides deep insights into **which technologies are trending globally** and **how their popularity changes** — helping businesses, marketers, and data professionals make data-driven decisions.
 
 ---
-
+~~~
 ## 🎯 Objectives
 1️⃣ **Dynamic Search Setup** — Write a code where you can change just one keyword and search for multiple topics easily.  
 2️⃣ **Top 15 Countries** — Identify the countries where the keyword is searched the most and visualize it with bar charts.  
 3️⃣ **Global Visualization** — Plot a world map showing which countries have the highest search interest.  
 4️⃣ **Trend Over Time** — Extract time-wise data to see how interest has changed in different months or years.  
 5️⃣ **Keyword Comparison** — Compare multiple related keywords and visualize their popularity over time.
-
+~~~
 ---
 
 ## 🧠 Tools & Libraries Used
@@ -36,21 +41,26 @@ This analysis provides deep insights into **which technologies are trending glob
 ## 🧱 Project Workflow
 
 ### 🔹 1. Data Extraction  
+~~~
 Connect to the Google Trends API using `Pytrends` and extract interest data for a given keyword.
-
+~~~
 ### 🔹 2. Country-wise Interest  
+~~~
 Identify the **top 15 countries** with the highest search interest for the keyword and plot it using Seaborn bar plots.
-
-### 🔹 3. World Map Visualization 🌍  
+~~~
+### 🔹 3. World Map Visualization 🌍 
+~~~
 Use Plotly’s `choropleth` to build an interactive **world map** showing country-level search interest.
-
-### 🔹 4. Time-wise Analysis ⏳  
+~~~
+### 🔹 4. Time-wise Analysis ⏳
+~~~
 Visualize how the keyword’s popularity changed over the last 12 months with a line chart using Matplotlib.
-
-### 🔹 5. Keyword Comparison ⚔️  
+~~~
+### 🔹 5. Keyword Comparison ⚔️
+~~~
 Analyze and compare multiple keywords (e.g., *Artificial Intelligence*, *Data Science*, *Machine Learning*) on one graph to understand their relative trends.
+~~~
 
----
 
 ## 📈 Visual Insights
 ~~~
@@ -98,7 +108,13 @@ Tell a story with data 💬
 📈 Trend Over Time Line Chart
 
 ⚔️ Keyword Comparison Graph
+
 ~~~
+<img width="690" height="364" alt="image" src="https://github.com/user-attachments/assets/522ba7e4-77eb-47b0-a58b-7b2deaccb552" />
+<img width="676" height="362" alt="Screenshot 2025-10-15 212156" src="https://github.com/user-attachments/assets/eb1a90bb-e731-487d-8fc9-38c592cc6b01" />
+<img width="734" height="366" alt="Screenshot 2025-10-15 212219" src="https://github.com/user-attachments/assets/ef26c46e-73d6-43b6-9c0f-0130411bea0b" />
+<img width="1099" height="450" alt="newplot (1)" src="https://github.com/user-attachments/assets/5eaa31c5-98f7-43ee-9562-17252cd44a26" />
+
 ## 🧾 Key Learnings
 ~~~
 ✔ How to extract real data from APIs
