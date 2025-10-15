@@ -110,8 +110,14 @@ Tell a story with data 💬
 ⚔️ Keyword Comparison Graph
 
 ~~~
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/522ba7e4-77eb-47b0-a58b-7b2deaccb552" /> <img width="500" height="350" alt="Screenshot 2025-10-15 212156" src="https://github.com/user-attachments/assets/eb1a90bb-e731-487d-8fc9-38c592cc6b01" />
-<img width="500" height="250" alt="Screenshot 2025-10-15 212219" src="https://github.com/user-attachments/assets/ef26c46e-73d6-43b6-9c0f-0130411bea0b" /> <img width="500" height="500" alt="newplot (1)" src="https://github.com/user-attachments/assets/5eaa31c5-98f7-43ee-9562-17252cd44a26" />
+
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:0;">
+   <img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/522ba7e4-77eb-47b0-a58b-7b2deaccb552" />
+   <img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/54cbfa84-9917-496c-ab48-46901bc16005" />
+   <img width="450" height="300" alt="Screenshot 2025-10-15 212156" src="https://github.com/user-attachments/assets/929f98be-daa3-4948-8311-73985644ba49" />
+   <img width="450" height="450" alt="Screenshot 2025-10-15 212219" src="https://github.com/user-attachments/assets/0f8754b0-b2e2-4abd-a283-062dc3177161" />
+</div>
+
 
 
 ## 🧾 Key Learnings
