@@ -110,10 +110,9 @@ Tell a story with data 💬
 ⚔️ Keyword Comparison Graph
 
 ~~~
-<img width="690" height="364" alt="image" src="https://github.com/user-attachments/assets/522ba7e4-77eb-47b0-a58b-7b2deaccb552" />
-<img width="676" height="362" alt="Screenshot 2025-10-15 212156" src="https://github.com/user-attachments/assets/eb1a90bb-e731-487d-8fc9-38c592cc6b01" />
-<img width="734" height="366" alt="Screenshot 2025-10-15 212219" src="https://github.com/user-attachments/assets/ef26c46e-73d6-43b6-9c0f-0130411bea0b" />
-<img width="1099" height="450" alt="newplot (1)" src="https://github.com/user-attachments/assets/5eaa31c5-98f7-43ee-9562-17252cd44a26" />
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/522ba7e4-77eb-47b0-a58b-7b2deaccb552" /> <img width="500" height="350" alt="Screenshot 2025-10-15 212156" src="https://github.com/user-attachments/assets/eb1a90bb-e731-487d-8fc9-38c592cc6b01" />
+<img width="500" height="250" alt="Screenshot 2025-10-15 212219" src="https://github.com/user-attachments/assets/ef26c46e-73d6-43b6-9c0f-0130411bea0b" /> <img width="500" height="500" alt="newplot (1)" src="https://github.com/user-attachments/assets/5eaa31c5-98f7-43ee-9562-17252cd44a26" />
+
 
 ## 🧾 Key Learnings
 ~~~
@@ -133,3 +132,14 @@ Data Enthusiast | Python | SQL | Ms.Excel | Power-BI | Tableau | Data Analytics
 📧 sainisaurabh944@gmail.com
 
 🔗 https://www.linkedin.com/in/saurabh-saini-2a8a6a176/
+
+#google-trends
+#data-visualization
+#python-project
+#data-analysis
+#api-integration
+#machine-learning
+#data-science
+
+
+
